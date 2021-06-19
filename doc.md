@@ -12,6 +12,9 @@ The pointer es un mini juego hecho con base a  HTML con herramientas como  js y 
 *	Para ganar llegar  a los 30 pts. antes del tiempo límite. 
 *	Para volver a jugar solo completa el juego o hasta que termine el tiempo.
 *	También puede reiniciar dando a la tecla f5 o refresh en página.
+## 3.Funcion
+La función del juego es de herramienta de práctica que ayudara a la mejora de reflejos y sentidos para juegos como shoters, moba  donde el uso eficaz del mouse es clave.
+
 
 ### git hub repositorio: https://github.com/BryanBMQQ/JuegoPointer
 
